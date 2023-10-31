@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(153, 130, 190);
+}
+
+#pontos {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 20px;
+    margin-right: 50px;
+    float: right;
+}
+
+span {
+    color: darkmagenta;
+}
